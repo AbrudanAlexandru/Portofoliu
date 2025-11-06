@@ -1,0 +1,76 @@
+h1, h2 {
+             text-align: center;
+             background-color: green;
+}
+
+
+.color-red {
+          color:red;
+}
+
+.big-text {
+       font-size: 30px;
+}
+
+
+#rounded-img {
+            border-radius: 50px;
+}
+
+h5 {
+text-align: right;
+}
+
+p.one {
+  text-align: right;
+  color: blue;
+  text-shadow: 2px 2px;
+}
+
+p.two {
+border: 1px solid black;
+  outline: #4CAF50 solid 5px;
+  margin: auto;  
+  padding: 4px;
+  text-align: right;
+  color: green;
+}
+
+body {
+       background-color:rgb(238, 238, 15);
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+th {
+text-align: left;
+color:#EE0F0F;
+}
+
+
+td {
+text-align: right;
+color:#EE0FC9;
+}
+
+
+p.three {
+text-align: left;
+color: purple;
+}
+
+ul {
+list-style-type: circle
+}
+
+ul li {
+  background: mistyrose;
+  color: darkblue;
+  margin: 5px;
+}
+
+
+
+
